@@ -1,3 +1,4 @@
 # for-yandex-internship
-please turn branches:
-работа в pandas: [click]([url](https://github.com/radrigawlod/send-for-yandex/tree/pandas-research))
+please choose branches:
+1. работа в pandas: https://github.com/radrigawlod/send-for-yandex/tree/pandas-research
+2. иной python кодинг: https://github.com/radrigawlod/send-for-yandex/tree/parse-shop
